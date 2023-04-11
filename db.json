@@ -1,4 +1,84 @@
 {
-  "Products": [
+  "jewelery": [
+    {
+      "id": 1,
+      "title": "Серьги из золота с бриллиантами",
+      "price": 6990,
+      "material": "Красное золото 585 пробы",
+      "weight": "0.78 г",
+      "insert": "Бриллиант (1 шт, 0.031 карат)",
+      "image": "https://pmdn.sokolov.io/pics/44/59/26664CE32929B3D9D4F48311ADE4.jpg",
+      "category": "Earrings"
+    },
+    {
+      "id": 2,
+      "title": "Кольцо из золота с бриллиантом",
+      "price": 5990,
+      "material": "0.76 г",
+      "weight": "1.48 г",
+      "insert": "Бриллиант (1 шт, 0.031 карат)",
+      "image": "https://pmdn.sokolov.io/pics/CB/AF/53FC30605FA5F29437EA2F88923B.jpg",
+      "category": "ring"
+    },
+    {
+      "id": 4,
+      "title": "Браслет из золота с изумрудами",
+      "price": 98100,
+      "material": "Красное золото 585 пробы",
+      "weight": "10.17 г",
+      "insert": "Изумруд (2 шт, 0.015 карат)",
+      "image": "https://pmdn.sokolov.io/pics/C2/C1/483DA88F188AE557A85CD76478E8.jpg",
+      "category": "bracelet"
+    },
+    {
+      "id": 5,
+      "title": "Подвеска из белого золота с бриллиантом",
+      "price": 14850,
+      "material": "Белое золото 585 пробы",
+      "weight": "0.67 г",
+      "insert": "Бриллиант (1 шт, 0.046 карат)",
+      "image": "https://pmdn.sokolov.io/pics/C9/75/162A208FAF64DCA9B851B9501D89.jpg",
+      "category": "Suspension"
+    },
+    {
+      "id": 6,
+      "title": "Колье из белого золота с бриллиантами",
+      "price": 135000,
+      "material": "Белое золото 585 пробы",
+      "weight": "3.66 г",
+      "insert": "Бриллиант (32 шт, 0.125 карат)",
+      "image": "https://pmdn.sokolov.io/pics/40/E4/EF0E4A2FEB214A0E8B4DC2EC7D88.jpg",
+      "category": "Necklace"
+    },
+    {
+      "id": 7,
+      "title": "Пирсинг из золота с фианитами",
+      "price": 10800,
+      "material": "Красное золото 585 пробы",
+      "weight": "1.15 г",
+      "insert": "Фианит (17 шт)",
+      "image": "https://pmdn.sokolov.io/pics/28/FF/CE6538D32DF65F0D2A918B43A84F.jpg",
+      "category": "Piercing"
+    },
+    {
+      "id": 8,
+      "title": "Брошь «Роза» с бриллиантами",
+      "price": 32850,
+      "material": "Красное золото 585 пробы",
+      "weight": "2.42 г",
+      "insert": "Бриллиант (14 шт, 0.042 карат)",
+      "image": "https://pmdn.sokolov.io/pics/0A/6A/A908F4CB0F43E45BDAD8B01F30A1.jpg",
+      "category": "Brooch"
+    },
+    {
+      "id": 9,
+      "title": "Запонки из золота 585 пробы с фианитами",
+      "price": 39600,
+      "material": "Красное золото 585 пробы",
+      "weight": "6.13 г",
+      "insert": "Фианит (32 шт)",
+      "image": "https://pmdn.sokolov.io/pics/1A/B5/69D34951FCC0C3196592A8B478AE.jpg",
+      "category": "Cufflinks"
+    }
   ]
 }
