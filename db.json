@@ -1,3 +1,7 @@
 {
-    "Products":[]
+  "Products": [
+    {
+      "Name": "example"
+    }
+  ]
 }
