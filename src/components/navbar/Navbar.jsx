@@ -22,7 +22,7 @@ const Navbar = () => {
             <div className={cl.navbar_bottom}>
                 <div className="container">
                     <ul className={cl.navbar_b_ul}>
-                        <li className={cl.navbar_b_li}><Link to='/'>СЕРЬГИ</Link></li>
+                        <li className={cl.navbar_b_li}><Link to='/products'>СЕРЬГИ</Link></li>
                         <li className={cl.navbar_b_li}><Link to='/'>КОЛЬЦА</Link></li>
                         <li className={cl.navbar_b_li}><Link to='/'>БРАСЛЕТЫ</Link></li>
                         <li className={cl.navbar_b_li}><Link to='/'>ПОДВЕСКИ</Link></li>

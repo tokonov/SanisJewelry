@@ -8,7 +8,6 @@ const HomePage = () => {
     <>
         <ControlledCarousel/>
         <Catalog/>
-        <ProductCard/>
     </>
   )
 }

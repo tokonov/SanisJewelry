@@ -6,12 +6,12 @@ import MainLayout from "../layots/MainLayout";
 
 const MainRoutes = () => {
   return (
-    <Routes>
-      <Route element={<MainLayout />}>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/products" element={<ProductListPage />} />
-      </Route>
-    </Routes>
+    <div>
+      <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/products" element={<ProductListPage />} />
+      </Routes>
+    </div>
   );
 };
 
