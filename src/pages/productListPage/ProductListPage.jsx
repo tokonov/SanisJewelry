@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import ProductCard from "../../components/productCard/ProductCard";
 
 const ProductListPage = () => {
   return (
-    <div>add</div>
-  )
-}
+    <div>
+      <ProductCard />
+    </div>
+  );
+};
 
-export default ProductListPage
+export default ProductListPage;
