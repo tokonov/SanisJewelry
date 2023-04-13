@@ -1,0 +1,40 @@
+.catalog_item{
+    height: 310px;
+    width: 310px;
+    border-radius: 10px;
+    background: rgba(241, 241, 241, 1);
+    background-image: url('../../media/catalog/relig.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    transition: .4s;
+    margin-left: 20px;
+}
+.catalog_item > span{
+    top: 6%;
+    left: 10%;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    position: absolute;
+}
+.catalog_item:hover{
+    transform: scale(1.013);
+    box-shadow: 400px 0 0 0 rgba(235, 231, 48, 0.3) inset;
+    cursor: pointer;
+}
+.catalog_item2{
+    background-image: url('../../media/catalog/tree.svg');
+}
+.catalog_item3{
+    background-image: url('../../media/catalog/collectoin.svg');
+}
+.catalog_item4{
+    background-image: url('../../media/catalog/arms.svg');
+}
+.catalog_item5{
+    background-image: url('../../media/catalog/pirsing.svg');
+}
+a{
+    color: black !important; 
+}

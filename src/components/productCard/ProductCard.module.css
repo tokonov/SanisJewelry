@@ -1,0 +1,23 @@
+.product_card_inner{
+    height: 380px;
+    width: 310px;
+    border-radius: 5px;
+    background: rgba(241, 241, 241, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.descr{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+}
+.product_card_price{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 10px;
+}
+.product_card_info{
+    margin-top: 10px;
+}
