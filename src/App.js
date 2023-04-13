@@ -1,12 +1,12 @@
-import './App.css';
-import ProductCard from './components/productCard/ProductCard';
-import MainLayout from './layots/MainLayout';
-
+import "./App.css";
+import ProductCard from "./components/productCard/ProductCard";
+import MainLayout from "./layots/MainLayout";
+import MainRoutes from "./routes/MainRoutes";
 
 function App() {
   return (
-    <div className="App">
-        <MainLayout/>
+    <div>
+      <MainRoutes />
     </div>
   );
 }

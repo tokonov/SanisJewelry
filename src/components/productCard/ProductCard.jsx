@@ -1,6 +1,7 @@
-import React from 'react'
-import cl from './ProductCard.module.css'
-import sergi from '../../media/catalog/sergi.svg'
+import React from "react";
+import cl from "./ProductCard.module.css";
+import sergi from "../../media/catalog/sergi.svg";
+
 const ProductCard = () => {
   return (
     <div className={cl.product_card}>
@@ -12,7 +13,7 @@ const ProductCard = () => {
         <h4 className={cl.product_card_price}>1212$</h4>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ProductCard
+export default ProductCard;
