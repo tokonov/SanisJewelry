@@ -1,12 +1,9 @@
 import React from "react";
 import ProductCard from "../../components/productCard/ProductCard";
+// import ProductCard from "../../components/productCard/ProductCard";
 
-const ProductListPage = () => {
-  return (
-    <div>
-      <ProductCard />
-    </div>
-  );
-};
+function ProductListPage() {
+  return <ProductCard />;
+}
 
 export default ProductListPage;

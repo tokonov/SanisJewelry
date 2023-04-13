@@ -3,8 +3,9 @@ import { Route, Routes } from "react-router-dom";
 import HomePage from "../pages/homePage/HomePage";
 import ProductListPage from "../pages/productListPage/ProductListPage";
 import MainLayout from "../layots/MainLayout";
+import ProductList from "../components/ProductList";
 
-const MainRoutes = () => {
+function MainRoutes() {
   return (
     <Routes>
       <Route element={<MainLayout />}>
@@ -13,6 +14,6 @@ const MainRoutes = () => {
       </Route>
     </Routes>
   );
-};
+}
 
 export default MainRoutes;
